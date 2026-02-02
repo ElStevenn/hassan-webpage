@@ -1,0 +1,234 @@
+You are an expert senior frontend engineer, UI/UX designer, and conversion-focused web designer.
+
+Your task is to design and implement a premium, highly professional, mobile-first personal website for an English teacher named Hassan, using React.
+
+==================================================
+PRIMARY OBJECTIVE
+==================================================
+Create a visually impressive, trustworthy, and conversion-optimized website that promotes Hassan as a professional English teacher and encourages users to book a free trial lesson.
+
+The website must feel:
+- Professional
+- Modern
+- Trustworthy
+- Friendly
+- Premium but affordable
+
+99% of users will access the website from a mobile phone, so the entire design and UX must be mobile-first.
+
+==================================================
+TECHNICAL REQUIREMENTS
+==================================================
+- Framework: React (functional components only)
+- Styling: Tailwind CSS OR styled-components (choose one)
+- Clean, scalable folder and component structure
+- Reusable components
+- High performance and accessibility
+- SEO-friendly structure
+- Mobile-first responsive design
+- Smooth animations (subtle, professional)
+
+Assets already exist in the project:
+- /images (hero.png, about-me.png, etc.)
+- /videos (intro or promotional videos)
+
+Use these assets meaningfully.
+
+==================================================
+TEACHER PROFILE
+==================================================
+- Name: Hassan
+- Age: 26
+- Nationality: Pakistani
+- Profession: Native English Teacher
+- Experience: 5+ years of professional English teaching
+- Lesson Type: Online 1-on-1 classes
+- Price: $17 per hour
+- Teaching Style:
+  - Friendly
+  - Patient
+  - Professional
+  - Confidence-focused
+  - Personalized lessons
+
+==================================================
+TARGET AUDIENCE
+==================================================
+- International students
+- Adults and young adults
+- Beginners to advanced learners
+- Students who want to improve:
+  - Speaking
+  - Pronunciation
+  - Fluency
+  - Confidence
+- Users looking for affordable but high-quality English lessons
+- Mobile users primarily
+
+==================================================
+WEBSITE STRUCTURE & SECTIONS
+==================================================
+
+--------------------------------------------------
+1. HERO SECTION (Critical)
+--------------------------------------------------
+- Uses /images/hero.png
+- Full-width, mobile-optimized hero
+- Headline:
+  “Learn English with Hassan”
+- Subheadline:
+  “Native English Teacher · 5+ Years Experience · $17/hour”
+- Short value proposition:
+  “Speak English confidently with personalized 1-on-1 online lessons.”
+- Primary CTA (very prominent):
+  “Book a Free Trial Class”
+- Secondary CTA:
+  “Watch My Introduction”
+- Clean, confident, welcoming tone
+
+--------------------------------------------------
+2. TRUST & CREDENTIALS BAR (New)
+--------------------------------------------------
+A horizontal or card-based section immediately after the hero:
+- “5+ Years Teaching Experience”
+- “Native English Teacher”
+- “Students from multiple countries”
+- “Affordable & Flexible”
+
+Designed to quickly build trust on mobile.
+
+--------------------------------------------------
+3. ABOUT HASSAN
+--------------------------------------------------
+- Uses /images/about-me.png
+- Professional but friendly bio:
+  - Hassan is a 26-year-old native English teacher from Pakistan
+  - Over 5 years of experience teaching students worldwide
+  - Specializes in helping students speak confidently and naturally
+- Short paragraphs optimized for mobile reading
+
+--------------------------------------------------
+4. TEACHING APPROACH (New Section)
+--------------------------------------------------
+Explain HOW Hassan teaches:
+- Personalized lessons based on student goals
+- Focus on real-life conversations
+- Pronunciation and fluency improvement
+- Confidence-building speaking practice
+- Friendly corrections and clear explanations
+
+Use icons or cards.
+
+--------------------------------------------------
+5. WHO ARE THE LESSONS FOR? (New Section)
+--------------------------------------------------
+List target students clearly:
+- Beginners who want to start speaking English
+- Intermediate learners who feel stuck
+- Advanced students who want fluency
+- Professionals who need English for work
+- Students preparing for interviews or travel
+
+Mobile-friendly list or cards.
+
+--------------------------------------------------
+6. FREE TRIAL CLASS (High Conversion Section)
+--------------------------------------------------
+Strong headline:
+“Book Your Free Trial English Class”
+
+Explain what the free trial includes:
+- 1-on-1 session with Hassan
+- Level assessment
+- Personalized learning plan
+- No payment required
+
+Include:
+- CTA button or booking form UI
+  - Name
+  - Email
+  - Preferred time
+- Simple, clean, mobile-first design
+
+--------------------------------------------------
+7. PRICING SECTION
+--------------------------------------------------
+Clear pricing card:
+- $17 per hour
+- Online 1-on-1 lessons
+- Flexible schedule
+- No long-term commitment
+
+Highlight value and affordability.
+
+--------------------------------------------------
+8. VIDEO INTRODUCTION
+--------------------------------------------------
+- Embed video from /videos
+- Hassan introducing himself
+- Explaining his teaching style
+- Optimized for mobile viewing
+
+--------------------------------------------------
+9. STUDENT TESTIMONIALS (Strong Trust Builder)
+--------------------------------------------------
+Professional testimonial cards:
+- Short quotes
+- Focus on:
+  - Confidence improvement
+  - Speaking fluency
+  - Friendly teaching style
+- Clean and readable on mobile
+
+--------------------------------------------------
+10. FAQ SECTION (New & Important)
+--------------------------------------------------
+Answer common questions:
+- Are the lessons online?
+- Who are the lessons for?
+- Do I need previous experience?
+- How does the free trial work?
+- What platforms are used for classes?
+
+Accordion-style for mobile.
+
+--------------------------------------------------
+11. FINAL CALL TO ACTION
+--------------------------------------------------
+Large, simple section at the end:
+- Headline:
+  “Start Speaking English with Confidence”
+- CTA button:
+  “Book Your Free Trial Class”
+- Minimal distractions
+
+--------------------------------------------------
+12. FOOTER
+--------------------------------------------------
+- Hassan – English Teacher
+- Short professional tagline
+- Contact CTA
+- Optional social media icons
+- Clean and minimal
+
+==================================================
+DESIGN & UX PRINCIPLES
+==================================================
+- Mobile-first always
+- Large readable typography
+- Clear spacing
+- Soft shadows and rounded cards
+- Modern color palette
+- Strong CTA visibility
+- Smooth but subtle animations
+- Fast load times
+
+==================================================
+FINAL DELIVERABLE
+==================================================
+A complete, production-ready React landing page that:
+- Looks professional and trustworthy
+- Feels premium but affordable
+- Is optimized for mobile users
+- Clearly promotes Hassan as an English teacher
+- Maximizes free trial bookings
