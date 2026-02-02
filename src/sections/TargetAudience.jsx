@@ -13,7 +13,7 @@ const audiences = [
 
 const TargetAudience = () => {
     return (
-        <Section background="white">
+        <Section background="white" className="overflow-hidden">
             <div className="bg-gradient-to-br from-primary-dark to-primary rounded-3xl p-8 md:p-12 text-white shadow-2xl overflow-hidden relative">
                 <div className="absolute top-0 right-0 w-64 h-64 bg-white/10 rounded-full blur-3xl -mr-16 -mt-16"></div>
 

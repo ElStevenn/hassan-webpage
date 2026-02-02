@@ -4,7 +4,7 @@ import { Smartphone, Monitor, Globe } from 'lucide-react';
 
 const ContentCreator = () => {
     return (
-        <Section background="gray">
+        <Section background="gray" className="overflow-hidden">
             <div className="grid md:grid-cols-2 gap-12 items-center">
 
                 <div className="order-2 md:order-1 relative">
